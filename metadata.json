@@ -1,6 +1,6 @@
 {
-  "name": "Sidra Friendship Card",
-  "description": "A playful interactive friendship card for Sidra with floating hearts and a running-away 'Nahi' button.",
+  "name": "Tooba & Fahad Rishta Proposal",
+  "description": "An interactive proposal card for Tooba Khojhi & Fahad with runaway Nahi button and celebration certificate.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
